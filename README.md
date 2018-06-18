@@ -1,6 +1,7 @@
 # Authapp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
+Auth APP kata using Auth0.
+https://manage.auth0.com/#/
 
 ## Development server
 
